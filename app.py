@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import calendar
-import folium
+
 
 # import from folders/theme changer
 from dash_bootstrap_templates import ThemeSwitchAIO
